@@ -10,6 +10,8 @@ Puede ser que no sea solo para recolectar información, es posible que le sume f
 -- TODO MUY AMATEUR --
 
 
-isRoot.py  -> Chequea si es el user es ROOT o no. Devuelve booleano.
-myIp.py    -> Devuelve mi ip en un int.
-tcolors.py -> modulo para modificar colores de mensajes.
+isRoot.py   -> Chequea si es el user es ROOT o no. Devuelve booleano.
+myIp.py     -> Devuelve mi ip en un int.
+tcolors.py  -> modulo para modificar colores de mensajes.
+routerIp.py -> Devuelve ip del router
+ipClass.py  -> Devuelve la clase de la ipv4
